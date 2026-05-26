@@ -1,5 +1,9 @@
 # Gerador de Códigos
 
+## Download
+Baixe a versão atualizada em:
+[Release](https://github.com/uBenetti/desktop-code-generator-python/releases/tag/v1.0.0)
+
 ## Descrição
 Aplicação desktop desenvolvida em Python para geração de códigos personalizados com exportação para Excel.
 
