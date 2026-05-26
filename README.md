@@ -15,6 +15,7 @@ Aplicação desktop desenvolvida em Python para geração de códigos personaliz
 - Interface Gráfica
 - Cópia rápida
 
+## Screenshots
 ![Tela Inicial](assets/TelaInicial.jpg)
 ![Tela De Exportação](assets/TelaDeExportação.jpg)
 ![Planilha Exportada](assets/Planilha.jpg)
